@@ -1,0 +1,6 @@
+{
+  "name": "Health Plus Multi Speciality Hospital",
+  "description": "Health Plus Multi Speciality Hospital in Battarahalli, Bengaluru. 24/7 emergency care, modern facilities, multi-speciality doctors, and fast appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
